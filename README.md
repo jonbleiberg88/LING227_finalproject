@@ -13,9 +13,9 @@ Jonathan Bleiberg - December 2018
 
 **synonym_pertubation.ipynb**: First implementation of synonym perturbation embeddings on first 5000 words of Gutenberg and Brown corpora; helper functions to extract synonyms via cosine similarity; 2D TSNE and PCA visualizations
 
-**synonym_pertubation2.ipynb**: Second implementation of synonym perturbation embeddings on first 5000 words of Gutenberg and Brown corpora with tweaked hyperparameters and validation set; helper functions to extract synonyms via combined cosine similarity and wordnet approach; 2D TSNE and PCA visualizations
+**synonym_pertubation2.ipynb**: Second implementation of synonym perturbation embeddings on first 5000 words of Brown corpus with wordnet and cosine similarity synonym generation method; helper functions to extract synonyms via combined cosine similarity and wordnet approach; 2D TSNE and PCA visualizations
 
-**synonym_pertubation3.ipynb**: Third implementation of synonym perturbation embeddings on first 10000 words of Gutenberg and Brown corpora with tweaked hyperparameters, experiments with regularization, BatchNorm, and Dropout; helper functions to extract synonyms via combined cosine similarity and wordnet approach; 2D TSNE and PCA visualizations
+**synonym_pertubation3.ipynb**: Third implementation of synonym perturbation embeddings on first 10000 words of Gutenberg and Brown corpora with tweaked hyperparameters, experiments with hidden layer size, regularization, BatchNorm, and Dropout; helper functions to extract synonyms via combined cosine similarity and wordnet approach; 2D TSNE and PCA visualizations
 
 
 ## Data/Models:
