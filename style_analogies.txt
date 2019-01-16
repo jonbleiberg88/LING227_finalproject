@@ -1,0 +1,2 @@
+man:gentleman woman:lady
+mom:mother dad:father
