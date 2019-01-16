@@ -1,0 +1,3 @@
+man:gentleman woman:lady
+mom:mother dad:father
+funny:comical happy:joyful

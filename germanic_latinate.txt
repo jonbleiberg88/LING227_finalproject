@@ -1,0 +1,5 @@
+begin:commence before:prior
+bug:insect shellfish:crustacean
+stop:finish start:commence
+brotherly:fraternal fatherly:fraternal
+freedom:liberty hardship:difficulty

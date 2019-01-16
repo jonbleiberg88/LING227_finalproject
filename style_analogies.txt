@@ -1,2 +1,7 @@
 man:gentleman woman:lady
 mom:mother dad:father
+funny:comical happy:joyful
+begin:commence before:prior
+bug:insect shellfish:crustacean
+stop:finish start:commence
+brotherly:fraternal fatherly:fraternal
