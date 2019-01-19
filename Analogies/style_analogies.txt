@@ -2,6 +2,12 @@ man:gentleman woman:lady
 mom:mother dad:father
 funny:comical happy:joyful
 begin:commence before:prior
-bug:insect shellfish:crustacean
+bug:insect snake:serpent
 stop:finish start:commence
 brotherly:fraternal fatherly:fraternal
+color:colour favorite:favourite
+lawful:legal fair:just
+shy:timid crafty:adept
+teach:educate understand:comprehend
+teach:educate watch:observe
+will:shall shouldn't:mustn't

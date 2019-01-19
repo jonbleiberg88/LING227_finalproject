@@ -1,5 +1,9 @@
 begin:commence before:prior
-bug:insect shellfish:crustacean
+bug:insect snake:serpent
 stop:finish start:commence
 brotherly:fraternal fatherly:fraternal
 freedom:liberty hardship:difficulty
+lawful:legal fair:just
+shy:timid crafty:adept
+teach:educate understand:comprehend
+teach:educate watch:observe
