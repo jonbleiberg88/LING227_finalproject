@@ -1,7 +1,7 @@
 begin:commence before:prior
 bug:insect snake:serpent
 stop:finish start:commence
-brotherly:fraternal fatherly:fraternal
+brotherly:fraternal fatherly:paternal
 freedom:liberty hardship:difficulty
 lawful:legal fair:just
 shy:timid crafty:adept
